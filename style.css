@@ -1,0 +1,29 @@
+/* Styles go here */
+
+body{
+  background-color: antiquewhite;
+  margin: 55px;
+}
+button {
+  font-family: November, Arial;
+}
+h1 {
+  font-family: November, Arial;
+}    
+h4 {
+  padding-left: 120px;
+}      
+.contain2{
+  padding: 15px;
+}
+.contain3{
+  padding: 55px;
+}
+.random{
+  font-size: 125%;
+  font-family: Old News, Georgia;
+}
+#randomButton {
+  margin-top: 15px;
+  font-size: 140%;
+}
